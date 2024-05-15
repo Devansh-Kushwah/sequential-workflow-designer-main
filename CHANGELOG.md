@@ -18,7 +18,7 @@ const configuration = {
 
 ## 0.19.4
 
-This version adds the data-step-id attribute to the root `<g>` elements of step components on the canvas. This attribute contains the ID of the step, enabling the use of CSS selectors to style step components [#135](https://github.com/nocode-js/sequential-workflow-designer/issues/135).
+This version adds the data-step-id attribute to the root `<g>` elements of step components on the canvas. This attribute contains the ID of the step, enabling the use of CSS selectors to style step components [#135](https://github.com/Devansh-Kushwah/sequential-workflow-designer-main/issues/135).
 
 ## 0.19.3
 
@@ -26,7 +26,7 @@ This version improves the experience of scrolling in the toolbox via the touchpa
 
 ## 0.19.2
 
-This version adds the `alt` key support. Now when you hold the `alt` key and click on the canvas, the drag and drop is disabled [#126](https://github.com/nocode-js/sequential-workflow-designer/issues/126).
+This version adds the `alt` key support. Now when you hold the `alt` key and click on the canvas, the drag and drop is disabled [#126](https://github.com/Devansh-Kushwah/sequential-workflow-designer-main/issues/126).
 
 ## 0.19.1
 
@@ -65,7 +65,7 @@ This version corrects a bug in the `moveViewportToStep` method that caused the v
 
 ## 0.18.1
 
-This version exposes the definition walker from the `Designer` class [#109](https://github.com/nocode-js/sequential-workflow-designer/issues/109).
+This version exposes the definition walker from the `Designer` class [#109](https://github.com/Devansh-Kushwah/sequential-workflow-designer-main/issues/109).
 
 ```js
 const walker = designer.getWalker();
@@ -73,7 +73,7 @@ const walker = designer.getWalker();
 
 ## 0.18.0
 
-This version fixes the problem with scrolling [#105](https://github.com/nocode-js/sequential-workflow-designer/issues/105).
+This version fixes the problem with scrolling [#105](https://github.com/Devansh-Kushwah/sequential-workflow-designer-main/issues/105).
 
 ## 0.17.0
 
@@ -113,7 +113,7 @@ This version also renames the `sqd-global-editor` class of the root editor into 
 
 ## 0.16.10
 
-This version fixes the error: `Failed to execute 'removeChild' on 'Node'` when a user uses the undo feature [#100](https://github.com/nocode-js/sequential-workflow-designer/issues/100).
+This version fixes the error: `Failed to execute 'removeChild' on 'Node'` when a user uses the undo feature [#100](https://github.com/Devansh-Kushwah/sequential-workflow-designer-main/issues/100).
 
 Additionally, this version introduces `getViewport`, `setViewport` methods and `onViewportChanged` event in the `Designer` class.
 
@@ -153,7 +153,7 @@ This version introduces a wrapper for Svelte framework! 🎉
 
 ## 0.16.5
 
-This version fixes the bug with scrolling in the toolbox [#92](https://github.com/nocode-js/sequential-workflow-designer/issues/92).
+This version fixes the bug with scrolling in the toolbox [#92](https://github.com/Devansh-Kushwah/sequential-workflow-designer-main/issues/92).
 
 ## 0.16.4
 
@@ -555,7 +555,7 @@ This version brings rendering speed improvements. Check the `stress-test.html` e
 
 This version introduces new build formats (ESM, UMD) of the package.
 
-🤩 For more advanced use cases we prepared **the paid pro package**. The package is in the early stage. Currently it contains advanced components for steps. [Here](https://github.com/nocode-js/sequential-workflow-designer-pro-demo) you can find more information and examples.
+🤩 For more advanced use cases we prepared **the paid pro package**. The package is in the early stage. Currently it contains advanced components for steps. [Here](https://github.com/Devansh-Kushwah/sequential-workflow-designer-main-pro-demo) you can find more information and examples.
 
 #### Breaking Changes
 

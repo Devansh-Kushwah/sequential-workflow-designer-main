@@ -4,7 +4,7 @@
 
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fb4rtaz%2Fsequential-workflow-designer%2Fbadge%3Fref%3Dmain&style=flat-square)](https://actions-badge.atrox.dev/b4rtaz/sequential-workflow-designer/goto?ref=main) [![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](/LICENSE) [![View this project on NPM](https://img.shields.io/npm/v/sequential-workflow-designer-svelte.svg?style=flat-square)](https://npmjs.org/package/sequential-workflow-designer-svelte)
 
-Svelte wrapper for the [Sequential Workflow Designer](https://github.com/nocode-js/sequential-workflow-designer) component.
+Svelte wrapper for the [Sequential Workflow Designer](https://github.com/Devansh-Kushwah/sequential-workflow-designer-main) component.
 
 ## 🚀 Installation
 
@@ -135,7 +135,7 @@ Import your components and set them to the designer:
 
 That's it! Now you can use the designer in your Svelte application.
 
-Check the [demo project](https://github.com/nocode-js/sequential-workflow-designer/tree/main/demos/svelte-app).
+Check the [demo project](https://github.com/Devansh-Kushwah/sequential-workflow-designer-main/tree/main/demos/svelte-app).
 
 ## 💡 License
 

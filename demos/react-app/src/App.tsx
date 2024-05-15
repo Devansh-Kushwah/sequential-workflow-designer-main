@@ -23,7 +23,7 @@ export function App() {
 				<button onClick={() => changePath('nativeEditors')} className={path === 'nativeEditors' ? 'selected' : ''}>
 					Native editors
 				</button>
-				<a href="https://github.com/nocode-js/sequential-workflow-designer/tree/main/react" className="github">
+				<a href="https://github.com/Devansh-Kushwah/sequential-workflow-designer-main/tree/main/react" className="github">
 					GitHub
 				</a>
 			</nav>

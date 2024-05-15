@@ -126,7 +126,7 @@
 </div>
 
 <div class="block">
-	This demo uses Svelte and <a href="https://github.com/nocode-js/sequential-workflow-designer/tree/main/svelte"
+	This demo uses Svelte and <a href="https://github.com/Devansh-Kushwah/sequential-workflow-designer-main/tree/main/svelte"
 		>Sequential Workflow Designer for Svelte</a
 	>.
 </div>
