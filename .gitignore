@@ -1,0 +1,8 @@
+.yarn/
+build/
+node_modules/
+coverage/
+.vscode/
+dist/
+yarn-*.log
+designer/css/*.css
